@@ -1,0 +1,9 @@
+Package: abc
+Type: Package
+Title: abc
+Version: 1.0
+Date: 2023-06-15
+Author: Lauren Wehausen
+Maintainer: Who to complain to <yourfault@somewhere.net>
+Description: A function that returns a single random letter of the alphabet. 
+License: use_mit_license("Lauren Wehausen")
